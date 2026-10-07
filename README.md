@@ -1,6 +1,6 @@
 # Python CI Pipeline with GitHub Actions and Email Notifications
 
-A production-style continuous integration pipeline for Python projects, built with GitHub Actions. The pipeline enforces code quality, formatting consistency, test coverage, and security standards on every push and pull request -- then delivers the results directly to your inbox via automated email notifications.
+A production-style continuous integration pipeline for Python projects, built with GitHub Actions. The pipeline enforces code quality, formatting consistency, test coverage, and security standards on every push and pull request then delivers the results directly to your inbox via automated email notifications.
 
 ---
 
