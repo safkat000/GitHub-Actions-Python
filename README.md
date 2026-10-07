@@ -108,7 +108,7 @@ SMTP_PASSWORD=<Google App Password>
 CI_EMAIL_RECIPIENT=team@example.com
 ```
 
-Warning! Do not commit SMTP credentials to the repository.
+Warning! Please Do not commit SMTP credentials to the repository.
 
 For Gmail, use an App Password rather than your normal Google account password.
 
